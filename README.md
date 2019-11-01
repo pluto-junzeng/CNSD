@@ -26,7 +26,7 @@
 
 
 
-| Model                 | Chinese-SNLI | Chinese-SNLI | Chinese-MNL | Chinese-MNL | Chinese-QQP | Chinese-QQP | Chinese-STS-B |
+| Model                 | Chinese-SNLI | Chinese-SNLI | Chinese-MNL | Chinese-MNL | Chinese-QQP | Chinese-STS-B | Chinese-STS-B |
 | --------------------- | ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------- |
 |                       | Dev          | Test         | Mismatched  | Matched     | Dev         | Dev         | Test          |
 | Embed+add-attention   | 74.46        | 75.05        | 63.28       | 62.25       | 72.56       | -           | -             |
