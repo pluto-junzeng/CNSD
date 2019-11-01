@@ -28,7 +28,7 @@
 
 | Model                 | Chinese-SNLI | Chinese-SNLI | Chinese-MNL | Chinese-MNL | Chinese-QQP | Chinese-QQP | Chinese-STS-B |
 | --------------------- | ------------ | ------------ | ----------- | ----------- | ----------- | ----------- | ------------- |
-| Dev                   | Test         | Mismatched   | Matched     | Dev         | Dev         | Test        |               |
+|                       | Dev          | Test         | Mismatched  | Matched     | Dev         | Dev         | Test          |
 | Embed+add-attention   | 74.46        | 75.05        | 63.28       | 62.25       | 72.56       | -           | -             |
 | BiLSTM+self-attention | 81.19        | 80.96        | 69.47       | 67.79       | 81.45       | 43.87       | 41.24         |
 | DiSAN                 | 81.32        | 81.45        | 69.54       | 68.13       | 82.32       | 44.21       | 42.09         |
