@@ -48,9 +48,9 @@
 ####  参考
 
 
-[A large annotated corpus for learning natural language inference]  (http://nlp.stanford.edu/pubs/snli_paper.pdf)
+[A large annotated corpus for learning natural language inference](http://nlp.stanford.edu/pubs/snli_paper.pdf)
 
-[A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference] (https://www.nyu.edu/projects/bowman/multinli/paper.pdf)
+[A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://www.nyu.edu/projects/bowman/multinli/paper.pdf)
 
 #### 致谢 
 感谢腾讯云提供翻译服务
