@@ -9,13 +9,11 @@
 
 
 
-百度网盘：链接：https://pan.baidu.com/s/1jqFVFLfmyaToeT3AM0UyqA   提取码：请联系我
 
 
-
-Chinese-SNLI：[百度云链接](https://pan.baidu.com/s/1mt3Gl725bzACfsXUe9aNLw ) 提取码：cjob
-Chinese-MNLI:[百度云链接](https://pan.baidu.com/s/10yfCQw_mNQh4pB9ygBY8bg ) 提取码：txti
-Chinese-QQP：[Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/overview) 版权不明，暂不提供下载
+- Chinese-SNLI：[百度云链接](https://pan.baidu.com/s/1mt3Gl725bzACfsXUe9aNLw ) 提取码：cjob
+- Chinese-MNLI:[百度云链接](https://pan.baidu.com/s/10yfCQw_mNQh4pB9ygBY8bg ) 提取码：txti
+- Chinese-QQP：[Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/overview) 版权不明，暂不提供下载
 
 #### 数据规模
 
@@ -46,7 +44,9 @@ Chinese-QQP：[Quora Question Pairs](https://www.kaggle.com/c/quora-question-pai
 | DiSAN                 | 81.32        | 81.45        | 69.54       | 68.13       | 82.32       | 44.21       | 42.09         |
 | BERT                  | **87.39**    | **86.95**    | **79.76**   | **79.39**   | **89.08\*** | **53.84**   | **50.26**     |
 
-#### reference
+
+####  参考
+
 
 [A large annotated corpus for learning natural language inference]  (http://nlp.stanford.edu/pubs/snli_paper.pdf)
 
