@@ -11,12 +11,11 @@ arxiv 没有人邀请，只有野路子open了给大家参考下下0.0
 #### 下载链接
 
 
-
-
-
+- ALL-List : [腾讯云](http://ccnunlp.top/archives/filepath)
 - Chinese-SNLI：[百度云链接](https://pan.baidu.com/s/1mt3Gl725bzACfsXUe9aNLw ) 提取码：cjob
-- Chinese-MNLI:[百度云链接](https://pan.baidu.com/s/10yfCQw_mNQh4pB9ygBY8bg ) 提取码：txti
+- Chinese-MNLI: [百度云链接](https://pan.baidu.com/s/10yfCQw_mNQh4pB9ygBY8bg ) 提取码：txti
 - Chinese-QQP：[Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/overview) 版权不明，暂不提供下载
+- Chinese-STS-B : [腾讯云](http://ccnunlp.top/archives/filepath)
 
 #### 数据规模
 
