@@ -3,6 +3,9 @@
 中文自然语言推理数据集（A large-scale Chinese Nature language inference and Semantic similarity calculation Dataset）
 本数据及通过翻译加部分人工修正的方法，从英文原数据集生成，可以一定程度中文自然语言推理和语义相似度计算数据集不够的问题。
 
+
+#### News
+中文版Squad2.0现已提供[访问链接](https://github.com/zengjunjun/ChineseSquad)
 #### 论文地址(PrePrint)
 arxiv 没有人邀请，只有野路子open了给大家参考下下0.0
 
