@@ -9,16 +9,16 @@
 #### 论文地址(PrePrint)
 arxiv 没有人邀请，只有野路子open了给大家参考下下0.0
 
-[A large-scale Chinese Nature language inference and Semantic similarity calculation Dataset](http://www.ccnunlp.top/upload/2019/11/CNSD-ae8cecde77b6446ca32e9e137854284a.pdf)
+[A large-scale Chinese Nature language inference and Semantic similarity calculation Dataset](https://6a75-junzeng-uxxxm-1300734931.tcb.qcloud.la/CNSD.pdf?sign=401485f4d6f256393a264e68464ca4ae&t=1578114336)
 
 #### 下载链接
 
 
 - ALL-List : [腾讯云](http://ccnunlp.top/archives/filepath)
-- Chinese-SNLI：[百度云链接](https://pan.baidu.com/s/1mt3Gl725bzACfsXUe9aNLw ) 提取码：cjob
-- Chinese-MNLI: [百度云链接](https://pan.baidu.com/s/10yfCQw_mNQh4pB9ygBY8bg ) 提取码：txti
+- Chinese-SNLI：[百度云链接](https://pan.baidu.com/s/1mt3Gl725bzACfsXUe9aNLw ) 提取码：cjob  [腾讯云](https://6a75-junzeng-uxxxm-1300734931.tcb.qcloud.la/cnsd-snli.rar?sign=27370d06c74c6724e1f6c97f6ba1598a&t=1578114485)
+- Chinese-MNLI: [百度云链接](https://pan.baidu.com/s/10yfCQw_mNQh4pB9ygBY8bg ) 提取码：txti [腾讯云](https://6a75-junzeng-uxxxm-1300734931.tcb.qcloud.la/cnsd-mnli.rar?sign=6a432c19f657ad37e2ba504ddec0529f&t=1578114431)
 - Chinese-QQP：[Quora Question Pairs](https://www.kaggle.com/c/quora-question-pairs/overview) 版权不明，暂不提供下载
-- Chinese-STS-B : [腾讯云](http://ccnunlp.top/archives/filepath)
+- Chinese-STS-B : [腾讯云](https://6a75-junzeng-uxxxm-1300734931.tcb.qcloud.la/STS-B.rar?sign=fa8d3ee7bc4e07d9ef64042f2d4f2465&t=1578114501)
 
 #### 数据规模
 
