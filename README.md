@@ -5,10 +5,9 @@
 
 #### News
 
-- 正式中文版Squad-zen现已提供[访问链接](https://github.com/zengjunjun/ChineseSquad)
+- 2020.01.13 正式中文版Squad-zen现已更新[访问链接](https://github.com/zengjunjun/ChineseSquad)
 
-- 2019.12.01本数据集CMNLI 已被
-
+- 2019.12.01本数据集CMNLI 已被[CLUE](https://github.com/CLUEbenchmark/CLUE) 收录，详情请参考 CLUE 语言推理任务 Chinese Multi-Genre NLI。训练集与本数据集保持一致，dev和test有所改变
 
 #### 论文地址(PrePrint)
 arxiv 没有人邀请，只有野路子open了给大家参考下下0.0
