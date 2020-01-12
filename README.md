@@ -3,11 +3,13 @@
 中文自然语言推理数据集（A large-scale Chinese Nature language inference and Semantic similarity calculation Dataset）
 本数据及通过翻译加部分人工修正的方法，从英文原数据集生成，可以一定程度缓解中文自然语言推理和语义相似度计算数据集不够的问题。
 
+
+
 #### News
 
 - 2020.01.13 正式中文版Squad-zen现已更新[访问链接](https://github.com/zengjunjun/ChineseSquad)
 
-- 2019.12.01本数据集CMNLI 已被[CLUE](https://github.com/CLUEbenchmark/CLUE) 收录，详情请参考 CLUE 语言推理任务 Chinese Multi-Genre NLI。训练集与本数据集保持一致，dev和test有所改变
+- 2019.12.01本数据集CMNLI 已被[CLUE](https://github.com/CLUEbenchmark/CLUE) 收录，详情请参考 CLUE 自然语言推理任务 Chinese Multi-Genre NLI。训练集与本数据集保持一致，dev和test有所改变
 
 #### 论文地址(PrePrint)
 arxiv 没有人邀请，只有野路子open了给大家参考下下0.0
