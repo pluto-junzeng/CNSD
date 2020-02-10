@@ -61,6 +61,9 @@ arxiv 没有人邀请，只有野路子open了给大家参考下下0.0
 
 [A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference](https://www.nyu.edu/projects/bowman/multinli/paper.pdf)
 
+#### 成员
+[Amazonhhh](https://github.com/Amazonhhh)
+
 #### 致谢 
 感谢腾讯云提供翻译服务
 
